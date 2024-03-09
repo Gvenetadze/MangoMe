@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{08A7ED7B-BE10-477F-970F-98AA436BE1AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{BDE97FB2-B3B2-4596-99AA-2BB503F13066}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{035EC935-11D8-46F9-83B0-0B56E12E22FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{CFABE7AA-5E17-46B8-9F71-05F99A76A827}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoMe.Services.CouponAPI", "MangoMe.Services.CouponAPI\MangoMe.Services.CouponAPI.csproj", "{A9EF6C24-E0C4-47AB-B1ED-7DA5F7638DDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoMe.Web", "MangoMe.Web\MangoMe.Web.csproj", "{964EF5F3-338B-42F4-95E4-C350D0D2462A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoMe.Services.AuthAPI", "MangoMe.Services.AuthAPI\MangoMe.Services.AuthAPI.csproj", "{ECC5CE20-6D47-4B8E-A1DE-AA222C25C8CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoMe.Services.ProductAPI", "MangoMe.Services.ProductAPI\MangoMe.Services.ProductAPI.csproj", "{678E0AF4-4A18-4E70-AAFC-65E778B97088}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoMe.Services.ShoppingCartAPI", "MangoMe.Services.ShoppingCartAPI\MangoMe.Services.ShoppingCartAPI.csproj", "{B1E9C041-0571-4E3B-B741-E6AB9B3536D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoMe.MessageBus", "MangoMe.MessageBus\MangoMe.MessageBus.csproj", "{81B9B747-1162-46AC-BA31-A95CF4F0D14D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoMe.Services.EmailAPI", "MangoMe.Services.EmailAPI\MangoMe.Services.EmailAPI.csproj", "{5626B06A-72A0-4CF4-8E8E-6AA979D92260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangoMe.Services.OrderAPI", "MangoMe.Services.OrderAPI\MangoMe.Services.OrderAPI.csproj", "{B1E0A156-30A9-4467-B811-17DBB5F25242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9EF6C24-E0C4-47AB-B1ED-7DA5F7638DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EF6C24-E0C4-47AB-B1ED-7DA5F7638DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EF6C24-E0C4-47AB-B1ED-7DA5F7638DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EF6C24-E0C4-47AB-B1ED-7DA5F7638DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964EF5F3-338B-42F4-95E4-C350D0D2462A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964EF5F3-338B-42F4-95E4-C350D0D2462A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964EF5F3-338B-42F4-95E4-C350D0D2462A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964EF5F3-338B-42F4-95E4-C350D0D2462A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC5CE20-6D47-4B8E-A1DE-AA222C25C8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC5CE20-6D47-4B8E-A1DE-AA222C25C8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC5CE20-6D47-4B8E-A1DE-AA222C25C8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC5CE20-6D47-4B8E-A1DE-AA222C25C8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678E0AF4-4A18-4E70-AAFC-65E778B97088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678E0AF4-4A18-4E70-AAFC-65E778B97088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678E0AF4-4A18-4E70-AAFC-65E778B97088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678E0AF4-4A18-4E70-AAFC-65E778B97088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E9C041-0571-4E3B-B741-E6AB9B3536D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E9C041-0571-4E3B-B741-E6AB9B3536D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E9C041-0571-4E3B-B741-E6AB9B3536D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E9C041-0571-4E3B-B741-E6AB9B3536D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B9B747-1162-46AC-BA31-A95CF4F0D14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B9B747-1162-46AC-BA31-A95CF4F0D14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B9B747-1162-46AC-BA31-A95CF4F0D14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B9B747-1162-46AC-BA31-A95CF4F0D14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5626B06A-72A0-4CF4-8E8E-6AA979D92260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5626B06A-72A0-4CF4-8E8E-6AA979D92260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5626B06A-72A0-4CF4-8E8E-6AA979D92260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5626B06A-72A0-4CF4-8E8E-6AA979D92260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E0A156-30A9-4467-B811-17DBB5F25242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E0A156-30A9-4467-B811-17DBB5F25242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E0A156-30A9-4467-B811-17DBB5F25242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E0A156-30A9-4467-B811-17DBB5F25242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A9EF6C24-E0C4-47AB-B1ED-7DA5F7638DDD} = {BDE97FB2-B3B2-4596-99AA-2BB503F13066}
+		{964EF5F3-338B-42F4-95E4-C350D0D2462A} = {035EC935-11D8-46F9-83B0-0B56E12E22FC}
+		{ECC5CE20-6D47-4B8E-A1DE-AA222C25C8CE} = {BDE97FB2-B3B2-4596-99AA-2BB503F13066}
+		{678E0AF4-4A18-4E70-AAFC-65E778B97088} = {BDE97FB2-B3B2-4596-99AA-2BB503F13066}
+		{B1E9C041-0571-4E3B-B741-E6AB9B3536D8} = {BDE97FB2-B3B2-4596-99AA-2BB503F13066}
+		{81B9B747-1162-46AC-BA31-A95CF4F0D14D} = {CFABE7AA-5E17-46B8-9F71-05F99A76A827}
+		{5626B06A-72A0-4CF4-8E8E-6AA979D92260} = {BDE97FB2-B3B2-4596-99AA-2BB503F13066}
+		{B1E0A156-30A9-4467-B811-17DBB5F25242} = {BDE97FB2-B3B2-4596-99AA-2BB503F13066}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8CB0F75-2AD1-4908-84C5-C2DF4C43A5BE}
+	EndGlobalSection
+EndGlobal

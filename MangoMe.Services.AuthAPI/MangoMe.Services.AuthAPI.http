@@ -1,0 +1,6 @@
+@MangoMe.Services.AuthAPI_HostAddress = http://localhost:5147
+
+GET {{MangoMe.Services.AuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

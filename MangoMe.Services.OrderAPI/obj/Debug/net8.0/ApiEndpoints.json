@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "MangoMe.Services.OrderAPI.Controllers.OrderAPIController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/order/CreateOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDto",
+        "Type": "MangoMe.Services.OrderAPI.Models.Dto.CartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MangoMe.Services.OrderAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MangoMe.Services.OrderAPI.Controllers.OrderAPIController",
+    "Method": "CreateStripeSession",
+    "RelativePath": "api/order/CreateStripeSession",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stripeRequestDto",
+        "Type": "MangoMe.Services.OrderAPI.Models.Dto.StripeRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MangoMe.Services.OrderAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MangoMe.Services.OrderAPI.Controllers.OrderAPIController",
+    "Method": "ValidateStripeSession",
+    "RelativePath": "api/order/ValidateStripeSession",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "OrderHeaderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MangoMe.Services.OrderAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

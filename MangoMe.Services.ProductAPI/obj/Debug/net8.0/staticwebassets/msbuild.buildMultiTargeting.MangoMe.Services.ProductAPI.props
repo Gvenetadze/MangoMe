@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MangoMe.Services.ProductAPI.props" />
+</Project>

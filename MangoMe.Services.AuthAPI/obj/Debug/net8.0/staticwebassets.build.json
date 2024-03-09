@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "29Y3Gw4t4699U3VwU0GRsyqBxEea6bCLVPHdJ9AJZfY=",
+  "Source": "MangoMe.Services.AuthAPI",
+  "BasePath": "_content/MangoMe.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

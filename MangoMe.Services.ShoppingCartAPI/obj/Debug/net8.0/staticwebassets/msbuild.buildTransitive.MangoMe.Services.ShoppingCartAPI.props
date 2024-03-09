@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MangoMe.Services.ShoppingCartAPI.props" />
+</Project>

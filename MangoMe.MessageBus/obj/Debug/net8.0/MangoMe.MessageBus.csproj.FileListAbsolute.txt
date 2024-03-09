@@ -1,0 +1,12 @@
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\bin\Debug\net8.0\MangoMe.MessageBus.deps.json
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\bin\Debug\net8.0\MangoMe.MessageBus.dll
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\bin\Debug\net8.0\MangoMe.MessageBus.pdb
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\obj\Debug\net8.0\MangoMe.MessageBus.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\obj\Debug\net8.0\MangoMe.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\obj\Debug\net8.0\MangoMe.MessageBus.AssemblyInfoInputs.cache
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\obj\Debug\net8.0\MangoMe.MessageBus.AssemblyInfo.cs
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\obj\Debug\net8.0\MangoMe.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\obj\Debug\net8.0\MangoMe.MessageBus.dll
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\obj\Debug\net8.0\refint\MangoMe.MessageBus.dll
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\obj\Debug\net8.0\MangoMe.MessageBus.pdb
+C:\Users\andri\source\repos\MangoMe\MangoMe.MessageBus\obj\Debug\net8.0\ref\MangoMe.MessageBus.dll

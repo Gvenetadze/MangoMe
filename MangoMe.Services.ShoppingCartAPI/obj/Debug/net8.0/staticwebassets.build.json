@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IpwD3eDAAhukXq+9jWfrJRFdYgjPIJmKaGwL9f6bgfA=",
+  "Source": "MangoMe.Services.ShoppingCartAPI",
+  "BasePath": "_content/MangoMe.Services.ShoppingCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

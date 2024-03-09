@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RFzX7QfGX8uTG/uvP2PcpZDm7zk1kXEkCkjbcUr8jF8=",
+  "Source": "MangoMe.Services.ProductAPI",
+  "BasePath": "_content/MangoMe.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

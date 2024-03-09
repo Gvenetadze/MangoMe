@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OmQQSoclXkaVbcCq/JIU6txaqnIriAl7cse3Sc5vx1I=",
+  "Source": "MangoMe.Services.EmailAPI",
+  "BasePath": "_content/MangoMe.Services.EmailAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MuACR9tP9U0l9prpDP41XdGLDIWs9sWc2Sljc8uaQpg=",
+  "Source": "MangoMe.Services.CouponAPI",
+  "BasePath": "_content/MangoMe.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

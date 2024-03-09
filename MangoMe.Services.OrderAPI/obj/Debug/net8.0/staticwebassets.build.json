@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v6AaihXfqJebUDC1IACUwG5JMgSlvXOJgZz9JK0d5tI=",
+  "Source": "MangoMe.Services.OrderAPI",
+  "BasePath": "_content/MangoMe.Services.OrderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
